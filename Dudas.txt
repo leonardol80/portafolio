@@ -1,0 +1,15 @@
+Como trabajar con los font-family
+Mover imagen al lado con flex
+
+
+Estudiante de Programación Web Full-Stack en Academlo
+? En proceso de transición profesional;
+? Con disponibilidad a nuevos proyectos;
+
+NW122NXT09
+
+<a href="URL DESTINO"><img src="URL DE LA IMAGEN"></a>
+
+put, post,delete
+json place holden (Martes 12-07)
+postman
