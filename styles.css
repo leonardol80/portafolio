@@ -428,7 +428,9 @@ footer {
 }
 
 .emailtext {
-  font-size: 11px;
+  display: flex;
+  justify-content: center;
+  font-size: 13px;
 }
 
 @media (min-width: 600px) {
